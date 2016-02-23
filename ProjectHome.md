@@ -1,0 +1,1 @@
+LibProfile is a very light weight code profiler which aims to support a wide range of video game consoles and embedded devices. Currently LibProfile supports the Nintendo Wii & Gamecube platforms. It is currently a very basic profiler but useful for optimizing and finding bottlenecks.
